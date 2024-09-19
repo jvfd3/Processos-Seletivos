@@ -145,7 +145,7 @@ Insira aqui o link (URL) do seu Linkedin:
 
 Minha resposta:
 
-> https://www.linkedin.com/in/jvfd3/
+> <https://www.linkedin.com/in/jvfd3/>
 
 ### Seção 2
 
@@ -162,6 +162,7 @@ D
 - [ ] B
 
 #### Perguntas 2 de 20
+
 Considere verdadeiras as seguintes afirmações.
 
 • Se Miguel é perito contábil, então ele porta calculadora e dirige carro popular.
@@ -169,7 +170,6 @@ Considere verdadeiras as seguintes afirmações.
 • Miguel não dirige carro popular.
 
 O que se conclui de Miguel?
-
 
 p -> (q e r)
 q
@@ -190,8 +190,6 @@ Um jogo é disputado por 3 pessoas (A, B e C), em várias rodadas. Cada rodada t
 3 seguidas ou 5 total.
 
 ??!??A
-
-
 
 Escolha uma
 
@@ -277,7 +275,6 @@ Escolha uma
 - [ ] Rafael não comprou um equipamento de esqui [Verdadeiro]
 - [X] Rafael não alugou um equipamento de esqui [Falso]
 
-
 #### Perguntas 8 de 20
 
 As afirmações a seguir foram feitas a respeito dos 4 países semifinalistas do torneio de futebol de uma Olimpíada.
@@ -322,8 +319,8 @@ I e II
 
 I e III
 
-
 #### Perguntas 10 de 20
+
 O metrô de Guapiaçu é constituído por dez diferentes linhas. A mais movimentada delas é a linha 1: quatro em cada sete usuários do metrô viajam nessa linha. Cada uma das demais linhas transporta cerca de 1.300 usuários por dia. Considerando-se que cada passageiro utiliza uma única linha, a linha 1 transporta, por dia, cerca de:
 
 O metrô de Guapiaçu é constituído por dez diferentes linhas. A mais movimentada delas é a linha 1: quatro em cada sete usuários do metrô viajam nessa linha. Cada uma das demais linhas transporta cerca de 1.300 usuários por dia. Considerando-se que cada passageiro utiliza uma única linha, a linha 1 transporta, por dia, cerca de:
